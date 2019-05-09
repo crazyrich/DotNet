@@ -1,0 +1,5 @@
+ASP.NET Web API using .Net Core 2.2.
+
+Introduction:  An online dog toy retailer name 'Contoso Pets' needs a RESTful inventory management service for company's web storefront. Service supports CRUD operations.
+
+Technology: A RESTful service using ASP.NET Core  web API using .NET Core 2.2 and C#. An in-memory database is created to persist the products data. Entity Framework Core is used as the Object Relational Mapper O/RM for reading and managing products data.
