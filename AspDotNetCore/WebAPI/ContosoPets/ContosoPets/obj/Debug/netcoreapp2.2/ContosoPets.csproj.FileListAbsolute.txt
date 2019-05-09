@@ -1,0 +1,14 @@
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\bin\Debug\netcoreapp2.2\ContosoPets.deps.json
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\bin\Debug\netcoreapp2.2\ContosoPets.runtimeconfig.json
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\bin\Debug\netcoreapp2.2\ContosoPets.runtimeconfig.dev.json
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\bin\Debug\netcoreapp2.2\ContosoPets.dll
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\bin\Debug\netcoreapp2.2\ContosoPets.pdb
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\obj\Debug\netcoreapp2.2\ContosoPets.csprojAssemblyReference.cache
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\obj\Debug\netcoreapp2.2\ContosoPets.csproj.CoreCompileInputs.cache
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\obj\Debug\netcoreapp2.2\ContosoPets.RazorAssemblyInfo.cache
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\obj\Debug\netcoreapp2.2\ContosoPets.RazorAssemblyInfo.cs
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\obj\Debug\netcoreapp2.2\ContosoPets.AssemblyInfoInputs.cache
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\obj\Debug\netcoreapp2.2\ContosoPets.AssemblyInfo.cs
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\obj\Debug\netcoreapp2.2\ContosoPets.RazorTargetAssemblyInfo.cache
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\obj\Debug\netcoreapp2.2\ContosoPets.dll
+C:\Users\AAAAARIC\Source\Personal\AspDotNetCore\ContosoPets\ContosoPets\obj\Debug\netcoreapp2.2\ContosoPets.pdb
